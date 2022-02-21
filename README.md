@@ -6,11 +6,11 @@ Collection of programs for the generative art course on Domestika.org
 ```https://riptutorial.com/node-js/example/9545/install-nvm-on-mac-osx```
 
 # Install Node Version 10.0.0
-```Make sure to CD into the root directory of the project, then run the following commands.
+Make sure to CD into the root directory of the project, then run the following commands.
 NOTE: You can change the version number to any other version.
->npm install -D node@v10.0.0
->./node_modules/.bin/node --version
->v10.0.0```
+```npm install -D node@v10.0.0```
+```./node_modules/.bin/node --version```
+```v10.0.0```
 
 # Install npm
 ```npm i```
