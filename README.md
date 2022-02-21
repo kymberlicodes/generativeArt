@@ -7,9 +7,9 @@ Collection of programs for the generative art course on Domestika.org
 
 # Install Node Version 10.0.0
 Make sure to CD into the root directory of the project, then run the following commands.
-NOTE: You can change the version number to any other version.\n
-```npm install -D node@v10.0.0```\n
-```./node_modules/.bin/node --version```\n
+NOTE: You can change the version number to any other version.  
+```npm install -D node@v10.0.0```  
+```./node_modules/.bin/node --version```  
 ```v10.0.0```
 
 # Install npm
